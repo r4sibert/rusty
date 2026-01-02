@@ -1,0 +1,2 @@
+# rusty
+rust lang stuff
